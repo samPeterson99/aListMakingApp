@@ -1,1 +1,3 @@
 https://daily.dev/blog/authentication-and-authorization-in-graphql
+
+https://medium.com/@ogubuikealex/how-to-implement-passwordless-authentication-in-node-js-with-nodemailer-and-gmail-4e6ee338a897
